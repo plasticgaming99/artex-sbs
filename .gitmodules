@@ -1,0 +1,6 @@
+[submodule "integra"]
+	path = integra
+	url = https://github.com/plasticgaming99/integra
+[submodule "buildintegra"]
+	path = buildintegra
+	url = https://github.com/plasticgaming99/buildintegra
